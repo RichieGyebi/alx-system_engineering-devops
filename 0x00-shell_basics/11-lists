@@ -1,0 +1,2 @@
+#!/bin/bsah
+ls . .. /boot -la
